@@ -1,0 +1,12 @@
+classpath:/Users/mel/Java practice/target/classes	5:6b1e1c493e0c158d1b7f8061abd1344530d9326ae0c132ed5f7d286f27cfae78
+classpath:/Users/mel/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.20.1/jackson-databind-2.20.1.jar	1688480:1761867893000
+classpath:/Users/mel/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.20/jackson-annotations-2.20.jar	79195:1756421461000
+classpath:/Users/mel/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.20.1/jackson-core-2.20.1.jar	593176:1761867199000
+classpath:/Users/mel/.m2/repository/org/junit/jupiter/junit-jupiter/5.11.4/junit-jupiter-5.11.4.jar	6367:1734354527000
+classpath:/Users/mel/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.11.4/junit-jupiter-api-5.11.4.jar	216413:1734354517000
+classpath:/Users/mel/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar	14304:1688646332000
+classpath:/Users/mel/.m2/repository/org/junit/platform/junit-platform-commons/1.11.4/junit-platform-commons-1.11.4.jar	142008:1734354496000
+classpath:/Users/mel/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar	6806:1624798415000
+classpath:/Users/mel/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.11.4/junit-jupiter-params-5.11.4.jar	591594:1734354506000
+classpath:/Users/mel/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.11.4/junit-jupiter-engine-5.11.4.jar	260117:1734354501000
+classpath:/Users/mel/.m2/repository/org/junit/platform/junit-platform-engine/1.11.4/junit-platform-engine-1.11.4.jar	246800:1734354517000
